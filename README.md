@@ -1,2 +1,5 @@
-# jquery-ui-draggable
-Custom build jquery-ui(including only draggable component)
+# Install
+Install via bower
+```
+bower install jquery-ui-draggable
+```
