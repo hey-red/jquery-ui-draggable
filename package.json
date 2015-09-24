@@ -1,0 +1,15 @@
+{
+  "name": "jquery-ui-draggable",
+  "version": "1.11.4",
+  "description": "Custom build of jquery-ui(including only draggable component)",
+  "main": "gulpfile.js",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.4.1"
+  }
+}
