@@ -5,14 +5,15 @@
   "authors": [
     "Kiririn <ritsufag@gmail.com>"
   ],
-  "main": "jquery-ui-draggable.js",
+  "description": "Custom build of jquery-ui(including only draggable component).",
+  "main": "./dist/jquery-ui-draggable.js",
+  "devDependencies": {
+    "jquery-ui": "~1.11.4"
+  },
   "keywords": [
     "jquery",
     "jquery-ui",
     "draggable"
   ],
-  "license": "MIT",
-  "devDependencies": {
-    "jquery-ui": "~1.11.4"
-  }
+  "license": "MIT"
 }
